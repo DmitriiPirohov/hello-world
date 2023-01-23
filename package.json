@@ -1,6 +1,7 @@
 {
   "name": "hello-world",
   "version": "0.0.0",
+  "homepage": "https://github.com/DmitriiPirohov/hello-world.git",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
